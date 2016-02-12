@@ -1,0 +1,32 @@
+{
+  "name": "wintouch-cloud",
+  "version": "0.1.0",
+  "description": "Wintouch Cloud",
+  "author": "Wintouch",
+  "repository": {
+    "type": "git",
+    "url": "192.168.0.127"
+  },
+  "contributors": [
+    "Luiz Santos <luiz.santos@wintouch.pt>",
+    "Nuno Soares <nuno.soares@wintouch.pt>"
+  ],
+  "scripts": {
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.1.0",
+    "dotenv": "^0.2.8",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-protractor": "^2.1.0",
+    "gulp-traceur": "^0.17.2",
+    "jasmine": "2.3.2",
+    "rtts_assert": "^0.0.1",
+    "systemjs": "^0.19.18"
+  },
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13"
+  }
+}

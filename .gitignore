@@ -1,0 +1,25 @@
+# User-specific files
+
+# build results
+
+# bower components
+bower_components/
+
+# npm local modules
+node_modules/
+
+# sass
+.sass-cache/
+
+# generated files
+dist/
+build/
+
+# Others
+~$*
+*~
+.vscode
+.env
+
+#npm debug log
+npm-debug.log
